@@ -59,7 +59,7 @@ my-permify-nextjs-app/
 3.  **Configure Permify:**
     *   Replace `"your-tenant-id"` with your actual tenant ID.
     *   Run `node app-schema.js` to write the schema to Permify.
-    *   Run `node app-permission.js` to grant the `admin` role access to the `organization` entity.
+    *   Run `node app-relationship.js` to grant the `admin` role access to the `organization` entity.
 
 4.  **Start the Backend Server:**
 
